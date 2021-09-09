@@ -2,8 +2,8 @@
 2>
 3> eMail: smange2018@gmail.com
 4>
-5>En esta línea va un párrafo
+5>	Título de la noticia
 6>
-7>
+7>		En esta línea va un párrafo
 8>
 9>
